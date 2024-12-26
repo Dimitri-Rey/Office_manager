@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="configuration" xml:space="preserve">
+    <value>
+      <Configuration>
+        <Add SourcePath="C:\OfficeSetup" OfficeClientEdition="64">
+          <Product ID="O365ProPlusRetail">
+            <Language ID="fr-fr" />
+          </Product>
+        </Add>
+        <Display Level="None" AcceptEULA="TRUE" />
+      </Configuration>
+    </value>
+  </data>
+</root> 
