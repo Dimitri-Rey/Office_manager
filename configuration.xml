@@ -1,8 +1,0 @@
-<Configuration>
-  <Add SourcePath="C:\OfficeSetup" OfficeClientEdition="64">
-    <Product ID="O365ProPlusRetail">
-      <Language ID="fr-fr" />
-    </Product>
-  </Add>
-  <Display Level="None" AcceptEULA="TRUE" />
-</Configuration> 
